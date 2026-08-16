@@ -143,6 +143,10 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
     items: ["Android Studio", "Xcode", "VS Code", "Postman"],
   },
   {
+    category: "AI Development Tools",
+    items: ["GitHub Copilot", "ChatGPT", "Claude", "Gemini"],
+  },
+  {
     category: "Version Control & DevOps",
     items: ["Git", "GitHub", "GitLab", "Google Play Console", "Microsoft Azure"],
   },
